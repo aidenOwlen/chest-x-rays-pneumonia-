@@ -1,0 +1,4 @@
+dataset used : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia 
+
+The goal was to evaluate resNetv2 transfer learning efficiency in these kind of tasks, by only adding one layer + the output layer.
+
